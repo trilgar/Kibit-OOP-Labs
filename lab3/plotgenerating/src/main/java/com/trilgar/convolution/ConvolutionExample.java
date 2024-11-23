@@ -36,7 +36,7 @@ public class ConvolutionExample {
 
             for (int y = 1; y < height - 1; y++) {
                 int finalY = y;
-                executor.submit(new ImageTransformer(inputImage, outputImage, width, finalY, Kernels.SHARPENING_FILTER));
+                executor.submit(new ImageTransformer(inputImage, outputImage, width, finalY, Kernels.EMBOSS));
             }
         }
 
