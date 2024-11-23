@@ -1,7 +1,9 @@
 package lab4.task4.weathermonitor;
 
+
+// todo розкоментуйте (видаліть /* та */ із коду) та допишіть код згідно із завданням
 public class Main {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         // Створюємо об'єкт WeatherData
         WeatherData weatherData = new WeatherData();
 
@@ -23,9 +25,9 @@ public class Main {
 
         // Встановлюємо нові дані про погоду
         weatherData.setMeasurements(22.0f, 85.0f, 28.5f);
-    }
+    }*/
 }
-
+/*
 interface Observer {
     void update(float temperature, float humidity, float pressure);
 }
@@ -160,6 +162,6 @@ class ForecastDisplay implements Observer {
             System.out.println("Обережно, можливе похолодання.");
         }
     }
-}
+}*/
 
 
