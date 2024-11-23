@@ -1,4 +1,4 @@
-package lab4.task3.texteditor;
+package lab4.task3.sensors;
 
 public class Main {
 }
