@@ -1,6 +1,7 @@
 package lab4.task3.sensors;
 
 public class Main {
+    // todo додайте демонстраційний код
 }
 
 interface TemperatureSensor {
@@ -32,3 +33,7 @@ class FahrenheitSensor {
         return temperatureFahrenheit;
     }
 }
+
+//class TemperatureAdapter implements TemperatureSensor {
+//    // todo реалізуйте цей клас
+//}
