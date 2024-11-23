@@ -1,4 +1,4 @@
-package lab4.task1.bankaccont.fixed;
+package lab4.task1.demonstration.fixed;
 
 public class FlexibleDepositAccount extends BasicAccount implements Deposit, Withdrawable {
     private double interest;

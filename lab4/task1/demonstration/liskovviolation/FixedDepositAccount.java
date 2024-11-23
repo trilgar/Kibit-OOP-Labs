@@ -1,4 +1,4 @@
-package lab4.task1.bankaccont.liskovviolation;
+package lab4.task1.demonstration.liskovviolation;
 
 import java.util.Date;
 

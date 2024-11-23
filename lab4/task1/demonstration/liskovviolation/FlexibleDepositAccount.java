@@ -1,6 +1,4 @@
-package lab4.task1.bankaccont.liskovviolation;
-
-import java.util.Date;
+package lab4.task1.demonstration.liskovviolation;
 
 public class FlexibleDepositAccount extends Account implements Deposit {
     private double interest;
