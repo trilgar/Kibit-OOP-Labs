@@ -19,11 +19,6 @@ public class FlexibleDepositAccount extends BasicAccount implements Deposit, Wit
     }
 
     @Override
-    public double getBalance() {
-        return balance;
-    }
-
-    @Override
     public void addInterest() {
         balance += balance * interest;
     }
